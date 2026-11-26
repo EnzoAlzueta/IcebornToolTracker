@@ -1,0 +1,14 @@
+/build/
+/build-*/
+/dist/
+/captures/
+__pycache__/
+*.obj
+*.pdb
+*.lib
+*.exp
+*.dll
+*.exe
+*.log
+*.bin
+*.ini
