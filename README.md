@@ -1,5 +1,7 @@
 # Iceborn Tool Tracker
 
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/imkyril)
+
 A planned Iceborn Suite panel for specialized tools in Monster Hunter World: Iceborne.
 
 **Project status — planning.** The first milestone is to verify tool activation, expiry and recharge on build 421810. Which tools can be displayed depends on those observations.
